@@ -10,3 +10,8 @@ A list of people who write a blog.
 **Writer:** [Mahdi Yusuf](https://twitter.com/myusuf3)  
 **Topics:** Tech, Hacking, Ideas  
 **Feed:** <https://asapracecondition.com/rss.xml>
+
+**Blog Name:** [justinjackson.ca](https://justinjackson.ca)  
+**Writer:** [Justin Jackson](https://twitter.com/mijustin)  
+**Topics:** Bootstrapping a startup in 2019
+**Feed:** <https://justinjackson.ca/feed>
