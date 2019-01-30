@@ -10,3 +10,8 @@ A list of people who write a blog.
 **Writer:** [Mahdi Yusuf](https://twitter.com/myusuf3)  
 **Topics:** Tech, Hacking, Ideas  
 **Feed:** <https://asapracecondition.com/rss.xml>
+
+**Blog Name:** [smpetrey](https://smpetrey.com/)  
+**Writer:** [Stephen Petrey](https://twitter.com/smpetrey)  
+**Topics:** Tech, Art, Music, Ideas, Wordpress
+**Feed:** <https://smpetrey.com/feed/>
