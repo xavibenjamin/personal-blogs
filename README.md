@@ -15,3 +15,8 @@ A list of people who write a blog.
 **Writer:** [Justin Jackson](https://twitter.com/mijustin)  
 **Topics:** Bootstrapping a startup in 2019
 **Feed:** <https://justinjackson.ca/feed>
+
+**Blog Name:** [smpetrey](https://smpetrey.com/)  
+**Writer:** [Stephen Petrey](https://twitter.com/smpetrey)  
+**Topics:** Tech, Art, Music, Ideas, Wordpress
+**Feed:** <https://smpetrey.com/feed/>
